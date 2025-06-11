@@ -8,10 +8,7 @@ level, Level,
 date-approx, Approximate Date,
 size, Size,
 repository, Repository,
-condition, Condition,
-date,Date Created,
-description,Description,
-subject,Subjects,true
+subject,Subjects,
 location,Location
 latitude,Latitude
 longitude,Longitude
