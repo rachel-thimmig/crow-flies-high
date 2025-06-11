@@ -36,6 +36,7 @@ author: Rachel Thimmig
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 metadata: cfh_data_cb
 
+
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
