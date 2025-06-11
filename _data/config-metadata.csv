@@ -8,7 +8,7 @@ level, Level,
 date-approx, Approximate Date,
 size, Size,
 repository, Repository,
-subject,Subjects, true
+subject, Subjects,
 location,Location
 latitude,Latitude
 longitude,Longitude
