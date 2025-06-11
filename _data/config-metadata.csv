@@ -1,6 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+titledescription, Description,
+material, Material,
+comments, Comments,
+unit, Unit
+level, Level,
+date-approx, Approximate Date,
+size, Size,
+repository, Repository,
+condition, Condition,
 date,Date Created,
 description,Description,
 subject,Subjects,true
