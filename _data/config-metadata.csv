@@ -2,13 +2,12 @@ field,display_name,browse_link,external_link
 title,Title,
 titledescription, Description,
 material, Material,
-comments, Comments,
+background-importance, Background and Importance,
 unit, Unit
 level, Level,
 date-approx, Approximate Date,
 size, Size,
 repository, Repository,
-subject, Subjects,
 location,Location
 latitude,Latitude
 longitude,Longitude
