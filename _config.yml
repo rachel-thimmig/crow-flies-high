@@ -34,7 +34,7 @@ author: Rachel Thimmig
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: cfh_data_cb
+metadata: https://docs.google.com/spreadsheets/d/e/2PACX-1vSWoqiGo9nqTGlF-JYJzeTA8swQVuYScDrndZhsOYpaqsCbznOryxqAtMFz2MoHzfGmCZ_UUe_sHJum/pub?output=csv
 
 
 ##########
