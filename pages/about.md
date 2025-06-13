@@ -22,4 +22,4 @@ In 1845, the Mandan and Hidatsa left the Knife River region and jointly establis
 **20th Century Salvage Archaeology**
 
 Before the construction of the Garrison Dam, the Inter Agency Salvage Program conducted archaeological surveys, indicating over 150 sites within the Garrison Reservoir area alone. Crow-Flies-High Village was one such site. Construction on the dam began in 1949 without the consent of the Mandan, Hidatsa, and Arikara population living within the flood zone on the Fort Berthold Reservation. Crow-Flies-High Village was excavated by Carling Malouf during two field seasons between 1952-1954,and he barely finished before the site flooded.
-
+![Map of Lake Sakakawea](https://upload.wikimedia.org/wikipedia/commons/2/2b/North_Dakota_on_Missouri_River_basin_map_%28cropped%29.png)
