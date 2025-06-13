@@ -23,10 +23,3 @@ In 1845, the Mandan and Hidatsa left the Knife River region and jointly establis
 
 Before the construction of the Garrison Dam, the Inter Agency Salvage Program conducted archaeological surveys, indicating over 150 sites within the Garrison Reservoir area alone. Crow-Flies-High Village was one such site. Construction on the dam began in 1949 without the consent of the Mandan, Hidatsa, and Arikara population living within the flood zone on the Fort Berthold Reservation. Crow-Flies-High Village was excavated by Carling Malouf during two field seasons between 1952-1954,and he barely finished before the site flooded.
 
-## The Site
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
