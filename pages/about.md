@@ -25,10 +25,10 @@ In 1845, the Mandan and Hidatsa left the Knife River region and jointly establis
 
 **20th Century Salvage Archaeology**
 
-Before the construction of the Garrison Dam, the Inter Agency Salvage Program conducted archaeological surveys, indicating over 150 sites within the Garrison Reservoir area alone. Crow-Flies-High Village was one such site. Construction on the dam began in 1949 without the consent of the Mandan, Hidatsa, and Arikara population living within the flood zone on the Fort Berthold Reservation. Crow-Flies-High Village was excavated by Carling Malouf during two field seasons between 1952-1954,and he barely finished before the site flooded.
+In 1944 the Flood Control Act authorized the damming of the Missouri River which authorized the construction of dams strategically placed to flood reservation land rather than nearby White settlements. For the Three Affiliated Tribes of the Fort Berthold Reservation in North Dakota (also known as the Mandan, Hidatsa, and Arikara Nation (MHA)) this involved the Garrison Dam, but before its construction, the Inter Agency Salvage Program conducted archaeological surveys, indicating over 150 sites within the proposed reservoir area alone. The archaeology is indicative of its time, using the acculturative approach. Archaeologists concluded “that the Garrison region was mainly an area of hunting camps and other temporary settlements, with very few permanent villages,” and that “the lower Garrison region was a refuge area for the village tribes during the last years of their long history.” Crow-Flies-High Village was one such refuge site. Crow-Flies-High Village was excavated by Carling Malouf during two field seasons between 1952-1954,and he barely finished before the site flooded. Rather than going to the Smithsonian like the other excavated sites, the collection of excavated materials ended up at the University of Montana, where in 2021, I reexamined the collection for the first time since the 1963 report. The content of this website are my photos and catalog information from my reanalysis. 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Map_Pick%E2%80%93Sloan_Missouri_Basin_Program.png/1280px-Map_Pick%E2%80%93Sloan_Missouri_Basin_Program.png" />
+  <img src="file:///C:/Users/rmthi/Downloads/IMG_5361%20(1).JPEG" />
 </p>
 
 
