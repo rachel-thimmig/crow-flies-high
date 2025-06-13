@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://www.ndtourism.com/sites/default/files/legacy_images/Lake%20Sakakawea%20Shoreline%20Commerce%20Aerials%20162.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
