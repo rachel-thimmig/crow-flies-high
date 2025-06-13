@@ -28,7 +28,7 @@ In 1845, the Mandan and Hidatsa left the Knife River region and jointly establis
 In 1944 the Flood Control Act authorized the damming of the Missouri River which authorized the construction of dams strategically placed to flood reservation land rather than nearby White settlements. For the Three Affiliated Tribes of the Fort Berthold Reservation in North Dakota (also known as the Mandan, Hidatsa, and Arikara Nation (MHA)) this involved the Garrison Dam, but before its construction, the Inter Agency Salvage Program conducted archaeological surveys, indicating over 150 sites within the proposed reservoir area alone. The archaeology is indicative of its time, using the acculturative approach. Archaeologists concluded “that the Garrison region was mainly an area of hunting camps and other temporary settlements, with very few permanent villages,” and that “the lower Garrison region was a refuge area for the village tribes during the last years of their long history.” Crow-Flies-High Village was one such refuge site. Crow-Flies-High Village was excavated by Carling Malouf during two field seasons between 1952-1954,and he barely finished before the site flooded. Rather than going to the Smithsonian like the other excavated sites, the collection of excavated materials ended up at the University of Montana, where in 2021, I reexamined the collection for the first time since the 1963 report. The content of this website are my photos and catalog information from my reanalysis. 
 
 <p align="center">
-  <img src= "rachel-diss-objects/objects/IMG_5361.JPEG" />
+  <img src= "https://github.com/rachel-thimmig/rachel-diss-objects/blob/960880a360f5b18e974868ba7a2a8e9be00366e4/objects/IMG_5361.JPEG" />
 </p>
 
 
