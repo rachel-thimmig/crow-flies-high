@@ -19,7 +19,9 @@ credits: true
 
 In 1845, the Mandan and Hidatsa left the Knife River region and jointly established Like-A-Fish-Hook Village near Fort Berthold. The Arikara moved into Like-A-FishHook in 1862 after their settlement, Star Village, was attacked in the winter of 1861. The resulting settlement was comprised of the three tribal entities and their subgroups. In 1866, Like-A-Fish-Hook became a year-round settlement, and the relentless Lakota and Dakota raids prompted the arrival of the U.S. military. The Office of Indian Affairs became a permanent presence in 1868 leading to overt government supervision and control, which only worsened in 1870 after an executive order officially established the Fort Berthold Reservation. Around this time, Crow-Flies-High, a Hidatsa-Proper man left Like-A-Fish-Hook Village over a leadership disagreement. He and his followers established Badlands Lodge (or Badlands Village), known to archaeologists as Garden Coulee (32WI18). The community was eventually pressured in 1884 by the military to leave Garden Coulee. They moved back east and established Stream of the Badlands Band, or Crow-Flies-High Village (32MZ1) near the mouth of the Little Knife River. They remained at this settlement until 1893 when they were forced back onto the reservation by military escort. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hidatsa_chief_Crow_Flies_High_%28cropped%29.jpg">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hidatsa_chief_Crow_Flies_High_%28cropped%29.jpg" />
+</p>
 
 **20th Century Salvage Archaeology**
 
